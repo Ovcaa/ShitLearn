@@ -1,0 +1,2 @@
+# ShitLearn
+Learn shit gl
